@@ -36,7 +36,7 @@ extension** and paste `external-tool.yaml` with the image changed to yours. Or
 deploy the YAML in this repo:
 
 ```bash
-sed 's|quay.io/cjanisze/oct-hello-external:[^ ]*|quay.io/<you>/oct-hello-external:dev|' deploy/install.yaml | oc apply -f -
+sed 's|quay.io/openshift-community-tools/oct-hello-external:[^ ]*|quay.io/<you>/oct-hello-external:dev|' deploy/install.yaml | oc apply -f -
 ```
 
 and enable the plugin in the console (skip if the storefront already enabled it):
