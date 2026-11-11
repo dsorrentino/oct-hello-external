@@ -21,7 +21,7 @@ spec:
     schema: 1
     level: plugin
     summary: Console page only. No backend, no API access, no RBAC.
-    contact: https://github.com/OOsemka/oct-hello-external/security/advisories
+    contact: https://github.com/openshift-community-tools/oct-hello-external/security/advisories
     network:
       ingress: console-only
     secrets:
