@@ -5,7 +5,7 @@
 Example external OCT module — a minimal OpenShift Console plugin designed to be installed via the storefront's "Add external extension" button, not from the community catalog.
 
 - **Plugin ID:** `oct-hello-external`
-- **Image:** `quay.io/cjanisze/oct-hello-external:1.0.0-ocp4.22` (`<semver>-ocp<major.minor>`)
+- **Image:** `quay.io/openshift-community-tools/oct-hello-external:1.0.0-ocp4.22` (`<semver>-ocp<major.minor>`)
 - **Route:** `/community-tools/management/hello-external`
 - **Git branch:** `main`
 

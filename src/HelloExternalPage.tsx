@@ -68,11 +68,11 @@ const HelloExternalPage: FC = () => {
                       <p>
                         <strong>{t('Source:')}</strong>{' '}
                         <a
-                          href="https://github.com/OOsemka/oct-hello-external"
+                          href="https://github.com/openshift-community-tools/oct-hello-external"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
-                          github.com/OOsemka/oct-hello-external
+                          github.com/openshift-community-tools/oct-hello-external
                         </a>
                       </p>
                     </Content>

@@ -9,7 +9,7 @@ This repository is an **example external module** for the OCT storefront. It dem
 | | Value |
 | --- | --- |
 | Plugin ID / ConsolePlugin / `package.json` `consolePlugin.name` | **`oct-hello-external`** |
-| Image | `quay.io/cjanisze/oct-hello-external:1.0.0-ocp4.22` (`<semver>-ocp<major.minor>`) |
+| Image | `quay.io/openshift-community-tools/oct-hello-external:1.0.0-ocp4.22` (`<semver>-ocp<major.minor>`) |
 | i18n | `plugin__oct-hello-external` |
 | Route | `/community-tools/management/hello-external` |
 
